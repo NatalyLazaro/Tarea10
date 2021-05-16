@@ -1,1 +1,2 @@
-# Tarea10
+# Capicua
+capicua usando estructura de datos
